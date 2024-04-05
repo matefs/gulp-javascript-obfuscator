@@ -1,0 +1,25 @@
+{
+  "name": "gulp-javascript-obfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matefs/gulp-javascript-obfuscator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matefs/gulp-javascript-obfuscator/issues"
+  },
+  "homepage": "https://github.com/matefs/gulp-javascript-obfuscator#readme",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-javascript-obfuscator": "^1.1.6",
+    "vinyl-sourcemaps-apply": "^0.2.1"
+  }
+}
