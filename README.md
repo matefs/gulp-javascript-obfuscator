@@ -18,7 +18,7 @@ This repository contains a simple setup for using gulp with javascript-obfuscato
 ### Usage:
 
 1.  Modify the JavaScript code in the `src/file.js` file.
-2.  Alternatively, you can execute the `npm start` command in your terminal to run `./src/index.js`.
+2.  You can execute the `npm start` command in your terminal to run `./src/index.js`.
     
     `npm start` 
     
